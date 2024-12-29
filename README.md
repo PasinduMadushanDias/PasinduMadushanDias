@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Pasindu Madushan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -14,6 +15,9 @@
 - 📫 How to reach me **pmdwijegunasinghe@gmail.com**
 
 - ⚡ Fun fact **Pasindu**
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
