@@ -33,16 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindumadushandias&" alt="pasindumadushandias" /></p>
 
-me read me file ekata \begin{onecolentry}
-\begin{highlights}
-    \item \textbf{Programming Languages:} Java, JavaFX, PHP, Python, JavaScript, C, C++
-    \item \textbf{Web Development:} React, HTML, CSS, Tailwind CSS, Laravel
-    \item \textbf{Mobile Development:} React Native, Flutter, Kotlin
-    \item \textbf{Backend Development:} Spring Boot, Node.js, RESTful APIs, Express.js, Laravel
-    \item \textbf{CMS:} WordPress, Sanity
-    \item \textbf{Databases:} PostgreSQL, MySQL, MongoDB
-    \item \textbf{Tools \& Platforms:} Git, GitHub, Postman, Firebase, Figma, Linux, ClickUp, Vercel, Docker, Slack, Jira
-    \item \textbf{Other Skills:} Problem-solving, Teamwork, Agile methodologies
-\end{highlights}
-\end{onecolentry}
 
